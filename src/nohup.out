@@ -1,0 +1,6 @@
+clusterconf=conf/global/conf.toml.test
+conf=conf/global/conf.toml
+well_framework
+clusterconf=conf/global/conf.toml.test
+conf=conf/global/conf.toml
+well_framework
