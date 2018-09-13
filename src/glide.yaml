@@ -1,0 +1,16 @@
+package: .
+import:
+- package: github.com/Masterminds/semver
+  version: v1.4.2
+- package: github.com/Masterminds/vcs
+  version: v1.12.0
+- package: github.com/codegangsta/cli
+  version: v1.20.0
+- package: github.com/gin-gonic/gin
+  version: v1.3.0
+- package: github.com/mitchellh/go-homedir
+  version: v1.0.0
+- package: github.com/urfave/negroni
+  version: v1.0.0
+- package: gopkg.in/yaml.v2
+  version: v2.2.1
