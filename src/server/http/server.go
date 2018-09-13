@@ -6,10 +6,6 @@ import (
 	"net/http"
 	"time"
 
-	"git.xiaojukeji.com/gulfstream/pope-offline-action-runner/models/global"
-	"git.xiaojukeji.com/gulfstream/pope-offline-action-runner/models/structs"
-	"git.xiaojukeji.com/gulfstream/pope-offline-action-runner/utils/http"
-	"git.xiaojukeji.com/gulfstream/pope-offline-action-runner/utils/plog"
 	"github.com/urfave/negroni"
 )
 
