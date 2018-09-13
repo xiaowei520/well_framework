@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/xiaowei520/well_framework/server/http"
+	"github.com/xiaowei520/well_framework/src/server/http"
 )
 
 // Serve 启动server的端口监听
